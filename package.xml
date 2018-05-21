@@ -10,7 +10,7 @@
   <maintainer email="bert@todo.todo">bert</maintainer>  <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->
   <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
-  <license>TODO</license>  <!-- Url tags are optional, but multiple are allowed, one per tag -->
+  <license>Apache License 2.0</license>  <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
   <!-- <url type="website">http://wiki.ros.org/face_tracker_control</url> -->  <!-- Author tags are optional, multiple are allowed, one per tag -->
